@@ -9,7 +9,7 @@ from urllib.parse import urlparse
 
 
 load_dotenv(find_dotenv())
-API_key = os.getenv("API_KOD")
+API_key = os.getenv("API_KOD11_30")
 
 bot = telebot.TeleBot(API_key)
 
