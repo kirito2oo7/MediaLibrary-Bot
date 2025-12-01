@@ -6,8 +6,8 @@ from psycopg2 import pool
 from dotenv import load_dotenv, find_dotenv
 import os
 load_dotenv(find_dotenv())
-API_key = os.getenv("API_KOD")
-bot_username = os.getenv("BOT_USERNAME")
+API_key = os.getenv("API_KOD11_30")
+bot_username = os.getenv("BOT_USERNAME11_30")
 
 bot = telebot.TeleBot(API_key)
 
