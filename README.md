@@ -60,6 +60,6 @@ The bot uses **PostgreSQL** to store media file IDs, user data, and referral sta
 
 ---
 
-##Notes
+## Notes
 Bot .env file for bot API and username.
 
