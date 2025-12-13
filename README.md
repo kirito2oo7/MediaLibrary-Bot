@@ -58,6 +58,7 @@ The bot uses **PostgreSQL** to store media file IDs, user data, and referral sta
 - Tables are created automatically on first run
 - Compatible with cloud PostgreSQL services (e.g., Neon, Supabase)
 
+---
 
 ##Notes
 Bot .env file for bot API and username.
